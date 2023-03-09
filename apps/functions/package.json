@@ -13,7 +13,7 @@
     "prettier": "prettier --write --check src"
   },
   "engines": {
-    "node": "16",
+    "node": "18",
     "npm": "use pnpm",
     "pnpm": "7.29.1",
     "yarn": "use pnpm"
