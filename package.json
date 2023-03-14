@@ -33,5 +33,5 @@
     "vite": "4.1.4",
     "vite-plugin-dts": "2.1.0"
   },
-  "packageManager": "pnpm@7.29.1"
+  "packageManager": "pnpm@7.29.2"
 }
